@@ -1,0 +1,4 @@
+telebot~=0.0.5
+aiogram~=2.25.1
+geopy~=2.3.0
+
